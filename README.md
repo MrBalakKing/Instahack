@@ -22,5 +22,8 @@
  cd Instahack
 ---------------------
 
+ pip install -r install.txt
+---------------------
+
  python Instahack.py
 ---------------------
